@@ -32,7 +32,7 @@ To become a proficient front-end developer creating accessible web applications 
 ## Let's Connect! 📬
 
 - **📧 Email: vixkudos@gmail.com**
-- **💼 LinkedIn: https://www.linkedin.com/in/victor-nwachukwu-l-i-o-n-%F0%9F%A6%81-a35048b0/**
+- **💼 LinkedIn:www.linkedin.com/in/victor-nwachukwu-a35048b0**
 
 
 
