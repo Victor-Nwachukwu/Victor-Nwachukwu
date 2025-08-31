@@ -11,10 +11,10 @@
 
 ### 👩🏽‍💻 About Me
 
-I'm a passionate **Software Engineer**, currently a learner in the **ALX Front-End Developer and Back-End Developer Program**, where I’m dedicating my time to mastering modern web development to enable me to build amazing responsive, user-friendly websites and world-class applications. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Engineer**, currently a learner in the **ALX Front-End Developer and Back-End Developer Program**, where I dedicate my time to mastering modern web development, enabling me to build amazing, responsive, and user-friendly websites and world-class applications. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 ### 🎯 What fuels my passion
-My tech journey began with a passion for **Making a difference with coding and solving problems**—today, that passion still drives me, and it has helped me to desire to know more, and also pushed me into creating seamless user experiences through functional, beautiful websites and applications.
+My tech journey began with a passion for **making a difference through coding and solving problems**—today, that passion still drives me, and it has helped me develop a desire to know more, as well as push me to create seamless user experiences through functional and beautiful websites and applications.
 
 - 🎨 Creating visually appealing and intuitive user interfaces
 - 🌱 Constantly learning and growing through hands-on projects
